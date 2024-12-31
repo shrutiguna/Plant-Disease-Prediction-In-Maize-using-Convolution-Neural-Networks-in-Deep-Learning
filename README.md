@@ -77,12 +77,6 @@ This project focuses on detecting plant diseases in maize crops using a convolut
 ## **Customization**
 - **Adding Diseases**: Update the `sugg.json` file with new disease names and suggestions.
 - **Model Updates**: Replace the `plant_disease_3.h5` file with a newer or retrained model to improve prediction accuracy.
-
----
-
-## **Acknowledgments**
-This project is based on deep learning techniques for plant disease detection, aiming to assist farmers in managing maize crop diseases efficiently. It uses a pre-trained CNN model trained on a dataset of maize leaf images.
-
 ---
 
 ## **Future Enhancements**
