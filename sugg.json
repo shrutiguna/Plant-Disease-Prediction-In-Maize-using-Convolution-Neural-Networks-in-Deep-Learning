@@ -1,0 +1,8 @@
+{
+    "Powdery disease": "Powdery Disease \n - Reasons : Temperature, RH, light, and air circulation Erysiphe, Leveillula, Microsphaera, Sphaerotheca, and Oidium. \n - Cure: Use sulfur-containing organic fungicides. \n - Remove the affected leaves, stems, buds, fruit or vegetables from the plant and discard.",
+    "Rust disease" : "Rust Disease \n - Reasons: A fungal parasite that needs living plants to survive. \n - Caused by Puccinia triticina. \n - Cure: Remove anddestroy all leaves and plant parts affected by rust.\n - Spray with a suitable rust control product containing fungicide.",
+	"Yellow Curl Leaf" : "Yellow Curl Leaf\n - Reasons : Viruses in the Geminivirus family of plant viruses and is spread by whiteflies. \n  - Caused by the fungus Taphrina deformans. \n - Cure: Use a neonicotinoid insecticide. \n - Insecticides of the family of the pyrethroids used as soil drenches or spray during the seedling stage." ,
+	"Late Blight" : " Late Blight \n - Reasons : Fungus Phytophthora infestans. \n - Caused by the water mold Phytophthora infestans. \n - Cure: Use Spraying fungicides. \n - By eliminating cull pilesusing and proper harvesting and storage practices, and applying fungicides when necessary.",
+	"Black rot" : "Black Rot \n - Reasons : By Xanthomonas campestris pv. Campestris \n - Cure: Mancozeb, and Ziram are all highly effective against it. \n - Copper-containing fungicides that are labeled for use on cruciferous vegetables.",
+    "Healthy" : "Healthy Leaf, no disease detected."
+}
